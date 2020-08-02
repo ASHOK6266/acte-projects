@@ -4,7 +4,7 @@ body
 }
 .outline
 {
-    margin: 0px 5px;
+    margin: 0px 5px 5px 150px;
     padding: 45px 45px;
 }
 ul
@@ -60,4 +60,48 @@ button
     color: white;
     padding: 10px 7px 10px 100px;
     border-radius: 4px;
+}
+footer
+{
+    background-color: #353638;
+    position: relative;
+    text-align: center;
+    color: white;
+    bottom: 0;
+}
+.boxone
+{
+    width: 200px;
+    height: 250px;
+    float: left;
+    margin: 10px;
+    border: 1px solid grey;
+}
+.boxtwo
+{
+    width: 200px;
+    height: 250px;
+    float: left;
+    margin: 10px;
+    border: 1px solid grey;
+}
+.boxthree
+{
+    width: 200px;
+    height: 250px;
+    float: left;
+    margin: 10px;
+    border: 1px solid grey;
+}
+.threeboxes p
+{
+    margin: 8px;
+}
+.threeboxes h4
+{
+    margin: 8px;
+}
+.threeboxes button
+{
+    margin: 8px;
 }
