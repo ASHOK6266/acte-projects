@@ -1,0 +1,63 @@
+body
+{
+    margin: 0;
+}
+.outline
+{
+    margin: 0px 5px;
+    padding: 45px 45px;
+}
+ul
+{
+    margin: 0;
+    padding: 0;
+    /* flex property makes the nav bar responsive */
+    display: flex;
+}
+li
+{
+    list-style-type: none;
+    /*when I specify 2 values to margin, the first one is for the top and bottom side, the second for the left and right side*/
+    margin: 0 ;
+    font-size: 2vh;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+    padding: 2vw;
+    font-family: monospace;
+}
+nav
+{
+    background-color:#353638;
+}
+.image
+{
+    height: 200px;
+    width: 400px;
+    background-color: lightgrey;
+    margin: 15px 15px;
+}
+.business
+{
+    height: 200px;
+    width: 300px;
+    margin: -220px 0px 0px 500px;
+}
+button
+{
+    background-color:#2394de;
+    color: white;
+    border-radius: 3px;
+}
+.middlebox
+{
+    height: 75px;
+    width: 700px;
+    background-color: #353638;
+    margin: 15px 15px;
+    color: white;
+    padding: 10px 7px 10px 100px;
+    border-radius: 4px;
+}
