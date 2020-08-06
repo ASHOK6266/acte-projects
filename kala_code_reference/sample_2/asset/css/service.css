@@ -1,0 +1,2127 @@
+body p{
+    text-align: justify;
+    line-height: 1.5;
+    color: #9e9e9e;
+    font-size: 18px;
+}
+.wrapper {
+
+    padding: 0 50px
+
+}
+
+img{
+    width: 100%;
+}
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.navbar-toggler-icon {
+
+    border: 1px solid #fff !important
+
+}
+
+
+
+.flex {
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center
+
+}
+
+
+
+.navbar {
+
+    background: #f1f1f1
+
+}
+
+
+
+a.nav-link {
+
+    color: #333
+
+}
+
+
+
+a.nav-link:hover {
+
+    color: #2F80ED
+
+}
+
+
+
+.navbar .label {
+
+    position: absolute;
+
+    left: 400px;
+
+    top: 20px;
+
+    border: 1px solid #b23f4b;
+
+    padding: 5px 20px;
+
+    color: #555;
+
+    border-radius: 20px
+
+}
+
+
+
+.navbar .label i {
+
+    font-size: 14px;
+
+    margin-right: 5px
+
+}
+
+
+
+.carousel-indicators {
+
+    bottom: 50px
+
+}
+
+
+
+header.about-section {
+
+    height: 70px
+
+}
+
+
+
+.nav-link {
+
+    padding-right: 50px !important;
+
+    color: #fff
+
+}
+
+
+
+.item-1 {
+
+    background: url("../img/packers-movers.jpg") no-repeat top;
+
+    height: 500px;
+
+    background-size: cover
+
+}
+
+
+
+.item-1:before {
+
+    content: '';
+
+    position: absolute;
+
+    top: 0;
+
+    right: 0;
+
+    bottom: 0;
+
+    left: 0;
+
+    background: transparent linear-gradient(to right, #3F3D51, #576D96) repeat scroll 0% 0%;
+
+    opacity: 0.8;
+
+    z-index: -100
+
+}
+
+
+
+.item-2 {
+
+    background: url("../img/corporate-building.jpg") no-repeat center;
+
+    height: 500px;
+
+    background-size: cover
+
+}
+
+
+
+.item-2:before {
+
+    content: '';
+
+    position: absolute;
+
+    top: 0;
+
+    right: 0;
+
+    bottom: 0;
+
+    left: 0;
+
+    background: transparent linear-gradient(to right, #3F3D51, #576D96) repeat scroll 0% 0%;
+
+    opacity: 0.95;
+
+    z-index: -100
+
+}
+
+
+
+.item-3 {
+
+    background: url("../img/household-shifting.jpg") no-repeat center;
+
+    height: 500px;
+
+    background-size: cover
+
+}
+
+
+
+.item-3:before {
+
+    content: '';
+
+    position: absolute;
+
+    top: 0;
+
+    right: 0;
+
+    bottom: 0;
+
+    left: 0;
+
+    background: transparent linear-gradient(to right, #3F3D51, #576D96) repeat scroll 0% 0%;
+
+    opacity: 0.9;
+
+    z-index: -100
+
+}
+
+
+
+.item .item-content {
+
+    padding-top: 120px;
+
+    padding-left: 50px;
+
+    display: inline-block
+
+}
+
+
+
+.item .item-content h1 {
+
+    display: inline-block;
+
+    font-size: 35px;
+
+    background: #9e9d9d;
+
+    padding: 10px;
+
+    color: #fff
+
+}
+
+
+
+.item .item-content p {
+
+    font-size: 20px;
+
+    margin-bottom: 35px;
+
+    color: #fff;
+
+
+
+}
+
+
+
+.item .item-content a {
+
+    color: #FFF;
+
+    font-size: 16px;
+
+    padding: 10px 20px;
+
+    background: #B23F4B none repeat scroll 0% 0%;
+
+    border-radius: 25px;
+
+    margin-top: 15px;
+
+    text-decoration: none
+
+}
+
+
+
+.item .truck img {
+
+    position: absolute;
+
+    right: 0;
+
+    top: 1%;
+
+    z-index: 1
+
+}
+
+
+
+.carousel-control-next,
+
+.carousel-control-prev {
+
+    position: relative;
+
+    left: 41%;
+
+    top: -30px
+
+}
+
+
+
+.carousel-control-next span {
+
+    position: absolute;
+
+    left: 50%;
+
+    bottom: 20px;
+
+    font-size: 12px
+
+}
+
+
+
+.carousel-control-prev span {
+
+    position: absolute;
+
+    left: 60%;
+
+    bottom: 20px;
+
+    font-size: 12px
+
+}
+
+
+
+.about-section {
+
+    position: relative;
+
+    margin-bottom: 20px
+
+}
+
+
+
+.modal-body p {
+
+    padding: 10px
+
+}
+
+
+
+.contact-box {
+
+    display: inline-block;
+
+    width: 49%
+
+}
+
+
+
+.modal-body .label {
+
+    border: 1px solid #e3e3e3;
+
+    padding: 7px 12px;
+
+    text-align: center;
+
+    font-weight: 500;
+
+    font-size: 16px;
+
+    color: #fff
+
+}
+
+
+
+.modal-body .label i {
+
+    padding-right: 2px
+
+}
+
+
+
+.modal-body .label.label-default {
+
+    background: #b23f4b
+
+}
+
+
+
+.about-section .review {
+
+    position: absolute;
+
+    top: -43px;
+
+    left: 50%;
+
+    transform: translateX(-50%);
+
+    z-index: 1000
+
+}
+
+
+
+.about-section .review p {
+
+    font-size: 20px;
+
+    padding: 10px 80px;
+
+    background: #fff;
+
+    background: rgba(178, 63, 75, 1);
+
+    border: 1px solid #B23F4B;
+
+    border-radius: 50px;
+
+    text-align: center;
+
+    display: inline-block;
+
+    color: #fff;
+
+    border: 1px solid #fff
+
+}
+
+
+
+.about-section .review span {
+
+    color: #fff
+
+}
+
+
+
+.about-section .review span.rating-text {
+
+    background: #fff;
+
+    padding: 1px 5px;
+
+    color: #555
+
+}
+
+
+
+.about-section .about,
+
+.about-img {
+
+    margin-top: 50px;
+
+    padding: 0 !important
+
+}
+
+
+
+.about-img img {
+
+    margin-top: 0px;
+
+    margin-left: 80px
+
+}
+
+
+
+.about-section .about h2 {
+
+    font-size: 24px;
+
+    color: #06c
+
+}
+
+
+
+.about-section .about p {
+
+    font-size: 16px;
+
+    margin: 20px 0px;
+
+    text-align: justify
+
+}
+
+
+
+.about-section .about span {
+
+    color: #06c;
+
+    background: rgba(178, 63, 75, 1);
+
+    padding: 5px 15px;
+
+    border-radius: 20px;
+
+    color: #fff
+
+}
+
+
+
+.image-align {
+
+    margin-top: 40px
+
+}
+
+
+
+.service-section {
+
+    background: #f9f9f9;
+
+    padding: 20px 0px
+
+}
+
+
+
+.service-box {
+
+    padding: 0px 50px
+
+}
+
+
+
+.service-box .inner {
+
+    margin-bottom: 20px
+
+}
+
+
+
+.service-section h2 {
+
+    padding: 20px 50px;
+
+    font-size: 24px;
+
+    color: #06c;
+
+    font-weight: bold
+
+}
+
+
+
+.service-section .service-list .inner img {
+
+    margin-left: -40px;
+
+    width: 200px
+
+}
+
+
+
+.service-section .service-list h3 {
+
+    font-size: 20px;
+
+    color: #06c
+
+}
+.service-section .service-list.shipping-list .inner img{
+    width: 150px;
+    display: inline-block;
+}
+
+.service-section .service-list.shipping-list h3{
+    display: inline-block;
+     font-size: 20px;
+
+    color: #06c
+
+}
+
+
+
+.service-section .service-list a {
+
+    color: #06c;
+
+    padding: 7px 12px;
+
+    border: 1px solid #06c;
+
+    border-radius: 50px;
+
+    text-decoration: none
+
+}
+
+
+
+.service-section .service-list .btn {
+
+    color: #fff;
+
+    padding: 7px 12px;
+
+    border: 1px solid #06c;
+
+    border-radius: 50px;
+
+    text-decoration: none
+
+}
+
+
+
+.service-section .service-list a:hover {
+
+    color: #fff;
+
+    background: #06c
+
+}
+
+
+
+.loading-box ul.service-list {
+
+    list-style: none;
+
+    padding-left: 30px;
+    font-size: 18px;
+    line-height: 2;
+
+}
+
+
+
+
+
+.household-box .service-img img {
+
+    width: 30px;
+
+    height: 30px
+
+}
+
+
+
+.household-box .service-img .main-box {
+
+    background: #2587c1;
+
+    margin: 10px 12px;
+
+    padding: 10px;
+
+    color: #fff;
+
+    font-weight: 500
+
+}
+
+
+
+.household-box .service-img .main-box span {
+
+    margin-left: 20px
+
+}
+
+
+
+.corporate-box .service-img img {
+
+    width: 30px;
+
+    height: 30px
+
+}
+
+
+
+.corporate-box .service-img .main-box {
+
+    background: #2587c1;
+
+    margin: 10px 12px;
+
+    padding: 10px;
+
+    color: #fff;
+
+    font-weight: 500
+
+}
+
+
+
+.corporate-box .service-img .main-box span {
+
+    margin-left: 20px
+
+}
+
+
+
+.packers-box .areas-banglore ul.areas-list li {
+
+    margin-bottom: 5px
+
+}
+
+
+
+.know-more {
+
+    background: #00d2ff;
+
+    background: -webkit-linear-gradient(to right, #3a7bd5, #00d2ff);
+
+    background: linear-gradient(to right, #3a7bd5, #00d2ff);
+
+    width: 100%;
+
+    overflow: auto
+
+}
+
+
+
+.know-more p {
+
+    color: #fff;
+
+    font-size: 24px;
+
+    text-align: center;
+
+    padding: 30px 0px
+
+}
+
+
+
+.download-banner {
+
+    background: #3F3D51;
+
+    color: #fff;
+
+    padding: 30px 0px
+
+}
+
+
+
+.download-banner .btn-bordered {
+
+    color: #fff;
+
+    border: 2px solid #fff;
+
+    margin-top: 5px
+
+}
+
+
+
+.know-more .know-more-btn {
+
+    margin-top: 38px
+
+}
+
+
+
+.know-more .know-more-btn a {
+
+    color: #3F3D51;
+
+    padding: 7px 15px;
+
+    background: #fff;
+
+    border-radius: 50px;
+
+    text-decoration: none;
+
+    font-size: 16px
+
+}
+
+
+
+.know-more .btns a:hover {
+
+    color: #fff;
+
+    background: #06c
+
+}
+
+
+
+.get-quote .content {
+
+    display: inline-block
+
+}
+
+
+
+.get-quote p {
+
+    color: #06c;
+
+    font-size: 25px;
+
+    padding-top: 20px;
+
+    display: inline-block;
+
+    padding-right: 10px
+
+}
+
+
+
+.get-quote .btns {
+
+    padding: 20px 0
+
+}
+
+
+
+.get-quote .btns input {
+
+    border-radius: 50px;
+
+    padding: 5px 80px 5px 10px;
+
+    background-color: none;
+
+    border: 1px solid #06c
+
+}
+
+
+
+.get-quote .btns a {
+
+    padding: 4px 12px;
+
+    color: #fff;
+
+    background: #06c;
+
+    border-radius: 50px;
+
+    text-decoration: none
+
+}
+
+
+
+.get-quote .btns a:hover {
+
+    color: #06c;
+
+    background-color: #fff;
+
+    border: 1px solid #06c
+
+}
+
+
+
+footer {
+
+    background-color: #282828;
+
+    padding: 30px 0;
+
+}
+
+
+
+footer h3 {
+
+    color: #c4bbbb;
+
+    font-size: 18px;
+
+}
+
+footer h6 {
+
+    color: #c4bbbb;
+
+
+
+}
+
+
+footer .address p {
+
+    font-size: 15px;
+
+    color: #fff
+
+}
+
+
+
+footer .address .content {
+
+    padding-left: 20px
+
+}
+
+
+
+
+
+
+
+footer .mailto {
+
+    color: #fff;
+
+    font-size: 14px;
+
+    padding-left: 0
+
+}
+.follow .links { margin-top:10px;}
+.follow .links a:hover { text-decoration: none;}
+.follow .socio-link { margin-top:10px;}
+
+
+
+footer .links .content a {
+
+    display: block;
+
+    color: #fff;
+
+    padding: 0 0 5px 5px;
+
+    text-decoration: none
+
+}
+
+
+
+footer .supplier a {
+
+    font-size: 14px;
+
+    display: block;
+
+    color: #fff;
+
+    padding: 0 0 5px 5px;
+
+    text-decoration: none
+
+}
+
+
+
+.follow {
+
+    background-color: #737373;
+
+    color: #fff;
+
+    padding: 10px 0px
+
+}
+
+
+
+.form-text {
+
+    margin-top: 10px
+
+}
+
+
+
+.follow .row {
+
+    margin: 0px !important
+
+}
+
+
+
+.follow p {
+
+    color: #fff;
+
+    font-size: 18px;
+
+    display: inline-block
+
+}
+
+
+
+.follow a {
+
+    margin-left: 10px;
+
+    color: #fff;
+
+    font-size: 15px;
+
+    padding-top: 15px
+
+}
+
+
+
+.expert {
+
+    margin: 20px 0;
+
+    background: #f9f9f9;
+
+    padding-top: 40px;
+
+    padding-bottom: 40px
+
+}
+
+
+
+.expert .content {
+
+    padding: 0 !important
+
+}
+
+
+
+.expert h3 {
+
+    color: #06c;
+
+    font-size: 24px;
+
+    font-weight: bold;
+
+    text-transform: capitalize;
+
+    margin-bottom: 20px;
+
+    padding: 0
+
+}
+.expert h2.main-head {
+
+    color: #06c;
+
+    font-size: 24px !important;
+
+    font-weight: bold;
+
+    text-transform: capitalize;
+
+    margin-bottom: 20px;
+
+    padding: 0
+
+}
+
+
+
+.expert .content .btns {
+
+    margin: 15px 0
+
+}
+
+
+
+.expert .content a {
+
+    color: #fff;
+
+    font-size: 16px;
+
+    padding: 10px 20px;
+
+    background: #B23F4B;
+
+    border-radius: 25px;
+
+    margin-top: 15px;
+
+    text-decoration: none
+
+}
+
+
+
+.service-box {
+
+    padding-top: 40px;
+
+    padding-bottom: 40px
+
+}
+
+
+
+.service-box .content {
+
+    padding: 0 !important
+
+}
+
+
+
+.service-box h3 {
+
+    color: #06c;
+
+    font-size: 24px;
+
+    font-weight: bold;
+
+    text-transform: capitalize;
+
+    margin-bottom: 20px;
+
+    padding: 0
+
+}
+
+
+
+.service-box .content .btns {
+
+    margin: 15px 0
+
+}
+
+
+
+.service-box .content a {
+
+    color: #fff;
+
+    font-size: 16px;
+
+    padding: 10px 20px;
+
+    background: #B23F4B;
+
+    border-radius: 25px;
+
+    margin-top: 15px;
+
+    text-decoration: none
+
+}
+
+.service-head h2 {
+    font-size:23px;
+
+    background: #269fd8;
+
+    padding: 10px 15px;
+
+    display: inline-block;
+
+    color: #fff
+
+}
+
+
+.service-head h3 {
+
+    background: #3F3D51;
+
+    padding: 10px 15px;
+
+    display: inline-block;
+
+    color: #fff
+
+}
+
+
+
+.household-box,
+
+.packers-box {
+
+    background: #f9f9f9
+
+}
+
+
+
+.areas-banglore ul.areas-list {
+
+    padding-left: 0px;
+
+    margin-bottom: 10px
+
+}
+
+
+
+.areas-banglore ul.areas-list li {
+
+    list-style: none;
+
+    border: 2px solid #269fd8;
+
+    padding: 7px;
+
+    display: inline-block
+
+}
+
+
+
+.areas-banglore ul.cities-list {
+
+    padding-left: 0px;
+
+    margin-bottom: 20px
+
+}
+
+
+
+.areas-banglore ul.cities-list li {
+
+    list-style: none;
+
+    display: inline-block
+
+}
+
+
+
+.how {
+
+    margin: 20px 0
+
+}
+
+.how h2 {
+
+    color: #06c;
+
+    font-size: 24px !important;
+
+    font-weight: bold;
+
+    margin: 30px 0px
+
+}
+
+
+.how h3 {
+
+    color: #06c;
+
+    font-size: 24px;
+
+    font-weight: bold;
+
+    margin: 30px 0px
+
+}
+
+
+
+.how .content h4 {
+
+    color: #fff;
+
+    font-size: 18px
+
+}
+
+
+
+.how .content p {
+
+    margin-bottom: 15px
+
+}
+
+
+
+.how .content a {
+
+    text-decoration: none
+
+}
+
+
+
+.how .banner {
+
+    padding-left: 0px
+
+}
+
+
+
+.workflow-steps {
+
+    list-style: none;
+
+    padding-left: 0px
+
+}
+
+
+
+.workflow-steps li.workflow-list {
+
+    padding-top: 5px
+
+}
+
+
+
+.workflow-steps li.workflow-list span.workflow-head {
+
+    background: #b23f4b;
+
+    padding: 5px 12px;
+
+    color: #fff
+
+}
+
+
+
+.workflow-steps li.workflow-list p {
+
+    margin-top: 10px;
+
+    margin-bottom: 0px
+
+}
+
+
+
+.wrapper-head {
+
+    background: #b23f4b;
+
+    padding: 7px 10px;
+
+    display: inline-block;
+
+    color: #fff
+
+}
+
+
+
+.about-section .about a {
+
+    font-size: 19px
+
+}
+
+
+
+.about-section .about a i {
+
+    vertical-align: middle
+
+}
+
+
+
+.about-section .about a:hover {
+
+    text-decoration: none
+
+}
+
+
+
+.inner-cform {
+
+    margin-top: 50px;
+
+    background: #e2e2e2;
+
+    padding: 20px
+
+}
+
+
+
+.inner-cform a {
+
+    background: #06c;
+
+    color: #fff !important
+
+}
+
+
+
+.inner-cform select {
+
+    margin-bottom: 10px
+
+}
+
+
+
+.about-block h2 {
+
+    font-size: 24px;
+
+    font-weight: bold
+
+}
+
+
+
+.about-section {
+
+    margin-bottom: 0px
+
+}
+
+
+
+.about-banner {
+
+    background: #ddd;
+
+    height: 100px
+
+}
+
+
+
+.inner-banner h1 {
+    font-size:1.5rem;
+    padding-top: 35px
+
+}
+.inner-banner.regional-head h1 {
+    font-size:1.5rem;
+    padding-top: 20px
+
+}
+
+.inner-banner h2 {
+    font-size:1rem;
+
+
+}
+
+
+
+.contact-section {
+
+    margin: 20px 0px;
+
+    border: none
+
+}
+
+
+
+.nav-tabs {
+
+    border: none
+
+}
+
+
+
+.contact-section .nav-tabs .nav-item.show .nav-link,
+
+.nav-tabs .nav-link {
+
+    background: none;
+
+    border: none
+
+}
+
+
+
+.nav-tabs .nav-item.show .nav-link,
+
+.nav-tabs .nav-link.active {
+
+    background: #b23f4b;
+
+    color: #fff;
+
+    font-weight: bold
+
+}
+
+
+
+.service-box.contact-head {
+
+    padding-left: 15px
+
+}
+
+
+.contact-head h2 {
+
+    padding: 10px;
+
+    font-size: 16px;
+
+    font-weight: 500
+
+}
+
+
+.contact-head h3 {
+
+    padding: 10px;
+
+    font-size: 16px;
+
+    font-weight: 500
+
+}
+
+
+
+.c-form {
+
+    background: #f9f9f9;
+
+    padding: 30px;
+
+    margin-top: -30px
+
+}
+
+
+
+.c-form a {
+
+    background: #b23f4b;
+
+    padding: 7px 15px;
+
+    display: inline-block;
+
+    color: #fff;
+
+    border-radius: 20px
+
+}
+
+
+
+textarea {
+
+    resize: none
+
+}
+
+
+
+.contact-head .content a {
+
+    border: none;
+
+    background: none;
+
+    padding: 0px;
+
+    color: #3F3D51
+
+}
+
+
+
+.c-location {
+
+    padding-left: 15px
+
+}
+
+
+
+.c-location iframe {
+
+    width: 100%
+
+}
+
+
+
+.c-location h3 {
+
+    background: #3F3D51;
+
+    color: #fff;
+
+    padding: 10px;
+
+    margin: 10px 0px;
+
+    display: inline-block;
+
+    font-size: 16px
+
+}
+
+
+
+.c-supplier {
+
+    padding-left: 15px
+
+}
+
+
+
+.c-supplier h3 {
+
+    background: #3F3D51;
+
+    color: #fff;
+
+    padding: 10px;
+
+    margin: 10px 0px;
+
+    display: inline-block;
+
+    font-size: 16px
+
+}
+
+
+
+.c-supplier .areas-banglore ul.areas-list li {
+
+    margin-bottom: 5px
+
+}
+
+
+
+#menu2 {
+
+    background: url("../img/india-map.png")no-repeat right;
+
+    background-size: contain;
+
+    margin-top: 25px
+
+}
+
+
+
+#contact-form .form-control {
+
+    width: 69%
+
+}
+
+
+
+.img-auto img {
+
+    width: 60%;
+
+    height: 100%
+
+}
+
+
+
+.img-auto img:hover {
+
+    background: rgb(0, 102, 204, 0.05)
+
+}
+
+
+
+span.location-name {
+
+    background: #B23F4B;
+
+    padding: 5px 10px;
+
+    color: #fff
+
+}
+
+
+
+@media screen and (max-width: 425px) {
+
+    header {
+
+        height: auto
+
+    }
+
+    .item .truck img {
+
+        display: none
+
+    }
+
+    .item .item-content h2 {
+
+        font-size: 21px
+
+    }
+
+    .item .item-content p {
+
+        font-size: 16px
+
+    }
+
+    .item .item-content {
+
+        padding-left: 15px
+
+    }
+
+    .carousel-control-prev span {
+
+        left: 90%
+
+    }
+
+    .navbar .label {
+
+        display: none
+
+    }
+
+    .about-img img {
+
+        margin-left: 0px
+
+    }
+
+    .know-more .know-more-btn {
+
+        margin-top: -30px;
+
+        text-align: center;
+
+        padding-bottom: 20px
+
+    }
+
+    .wrapper {
+
+        padding: 0 25px
+
+    }
+
+    .banner .content {
+
+        top: 45%
+
+    }
+
+    .banner .content h2 {
+
+        font-size: 20px
+
+    }
+
+    .navbar-brand img {
+
+        width: 210px
+
+    }
+
+    .navbar-nav li:hover {
+
+        background: #b23f4b
+
+    }
+
+    .navbar-nav li:hover a {
+
+        color: #fff
+
+    }
+
+    .navbar-nav li:hover .dropdown-menu a {
+
+        color: #b23f4b
+
+    }
+
+    .banner .content p {
+
+        font-size: 14px
+
+    }
+
+    .banner .content a {
+
+        font-size: 15px;
+
+        padding: 8px 12px
+
+    }
+
+    .banner .truck img {
+
+        display: none
+
+    }
+
+    .banner .truck-mb {
+
+        display: block
+
+    }
+
+    .banner .truck-mb img {
+
+        position: absolute;
+
+        right: 0;
+
+        top: 53%;
+
+        z-index: 1;
+
+        width: 350px
+
+    }
+
+    .about-section .review {
+
+        top: -35px
+
+    }
+
+    header.about-section {
+
+        height: auto
+
+    }
+
+    .areas-banglore ul.areas-list li {
+
+        margin-bottom: 10px
+
+    }
+
+    .how .banner {
+
+        margin-bottom: 20px
+
+    }
+
+    .service-box.service-head {
+
+        margin-top: 20px
+
+    }
+
+    .about-section .review p {
+
+        padding: 10px 40px;
+
+        font-size: 13px
+
+    }
+
+    .service-box {
+
+        padding: 0px 10px 20px
+
+    }
+
+    .carousel-indicators {
+
+        bottom: 45px
+
+    }
+
+    .about-section .review span {
+
+        display: flex;
+
+        margin: 0px
+
+    }
+
+    #contact-form .form-control {
+
+        width: 80%
+
+    }
+
+    .service-box .form {
+
+        margin-top: 20px
+
+    }
+
+    .follow span {
+
+        font-size: 14px
+
+    }
+
+    .socio-link {
+
+        text-align: left !important
+
+    }
+
+    .review span i {
+
+        margin-top: 4px
+
+    }
+
+    .about-section .review span.rating-text {
+
+        margin-left: 10px
+
+    }
+
+    .about-section .about h2 {
+
+        font-size: 20px
+
+    }
+
+    .about-section .about p {
+
+        font-size: 12px;
+
+        margin-bottom: 10px
+
+    }
+
+    .service-section .service-list .inner img {
+
+        width: 150px;
+
+        margin-left: -30px
+
+    }
+
+    .service-section .service-list a {
+
+        padding: 7px 16px
+
+    }
+
+    .know-more p {
+
+        color: #fff;
+
+        font-size: 20px;
+
+        text-align: center;
+
+        padding-top: 15px
+
+    }
+
+    .know-more .btns a {
+
+        margin-right: 10px;
+
+        padding: 3px 12px
+
+    }
+
+    .get-quote p {
+
+        font-size: 18px;
+
+        padding-right: 2px
+
+    }
+
+    .get-quote .btns {
+
+        padding-top: 1px
+
+    }
+
+    .get-quote .btns input {
+
+        padding: 5px 40px 5px 8px;
+
+        margin-bottom: 15px
+
+    }
+
+    footer .address,
+
+    .links,
+
+    .location,
+
+    .supplier {
+
+        margin-top: 15px
+
+    }
+
+    #menu2 {
+
+        background: none
+
+    }
+
+    span.location-name {
+
+        font-size: 12px
+
+    }
+
+    .expert h3 {
+
+        font-size: 20px
+
+    }
+    .address p, .contact p, .links ul li a{
+        text-align: center !important;
+    }
+
+}
+@media only screen and (max-width: 768px){
+    .top-footer{
+        height: auto;
+        padding-top: 0em;
+        background: #7faec4;
+    }
+    .top-footer .pl-50{
+        padding-left: 0;
+        padding-right: 0px;
+    }
+    .contact, .address, .links, .social_media{
+        text-align: center;
+        padding-bottom: 1em;
+    }
+    .links ul{
+        padding-left: 0;
+
+    }
+    .links ul li{
+        display: block;
+        border-right: 0;
+        right: 0em;
+    }
+    .social_media ul{
+        padding-left: 0;
+    }
+    p.white,ul.useful-links{
+        display: block;
+    }
+    ul.useful-links{
+        padding-left: 0;
+    }
+    ul.useful-links li{
+        display: block;
+        border-right: 0;
+    }
+    .address p, .contact p, .links ul li a {
+        font-size: 20px;
+        color: #fff;
+        text-align: center;
+    }
+   
+}

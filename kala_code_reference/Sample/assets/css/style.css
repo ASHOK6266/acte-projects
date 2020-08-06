@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i,900,900i&display=swap&subset=latin-ext');
+
+
+html,body{
+    overflow-x: hidden;
+    background: #00284c;
+    font-family: 'Lato', sans-serif;
+    margin: 0 auto;
+}
+.comedex_build{
+    background: url(../images/bg.jpg) no-repeat center;
+    background-size: 93%;
+    height: 766px;
+    padding-top: 2em;
+}
+.new_avenues h2{
+    text-align: center;
+    text-transform: uppercase;
+    color:#fff;
+    font-size: 30px;
+}
+.co-create-trade{
+    top: 15em;
+    /*left: 5.5em;*/
+    left: 3.5em;
+    position: relative;
+
+}
+.built_to_scale_01{
+    background: url(../images/01-built-to-scale.png) no-repeat center;
+    width: 169px;
+    height: 139px;
+    display:inline-block;
+}
+.built_to_scale_02{
+    background: url(../images/02-built-to-scale.png) no-repeat center;
+    width: 168px;
+    height: 139px;
+    display:inline-block;
+}
+.built_to_scale_03{
+    background: url(../images/03-built-to-scale.png) no-repeat center;
+    width: 169px;
+    height: 139px;
+    display:inline-block;
+}
+.built_to_scale_04{
+    background: url(../images/04-built-to-scale.png) no-repeat center;
+    width: 168px;
+    height: 139px;
+    display:inline-block;
+}
+.built_to_scale_05{
+    background: url(../images/05-built-to-scale.png) no-repeat center;
+    width: 169px;
+    height: 139px;
+    display:inline-block;
+}
+.built_to_scale_06{
+    background: url(../images/06-built-to-scale.png) no-repeat center;
+    width: 168px;
+    height: 139px;
+    display:inline-block;
+}
+.built_to_scale_07{
+    background: url(../images/07-built-to-scale.png) no-repeat center;
+    width: 251px;
+    height: 239px;
+    display:inline-block; 
+    position: relative;
+    top: 0em;
+    right: 7.2em;
+}
+.co-create-trade2{
+    top: 10.5em;
+    position: relative;
+    left: 0em;   
+}
+.built_to_scale_08{
+    background: url(../images/08-built-to-scale.png) no-repeat center;
+    width: 168px;
+    height: 139px;
+    display:inline-block; 
+}
+.built_to_scale_09{
+    background: url(../images/09-built-to-scale.png) no-repeat center;
+    width: 170px;
+    height: 139px;
+    display:inline-block; 
+}
+.built_to_scale_10{
+    background: url(../images/09-built-to-scale.png) no-repeat center;
+    width: 168px;
+    height: 139px;
+    display:inline-block; 
+}
+.built_to_scale_11{
+    background: url(../images/11-built-to-scale.png) no-repeat center;
+    width: 139px;
+    height: 139px;
+    display:inline-block; 
+}
+.comedex_build h3{
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+    right: 1em;
+    position: relative;
+    top: 2em;
+    text-transform: uppercase;
+}
+.built_to_scale_07 h3{
+    left:4em !important;
+    position:relative;
+}
+.co-create-trade2 h3{
+    left:1em !important;
+    position:relative;
+    top: 2em !important;
+}
+.built_to_scale_11 h3{
+    left: 0em !important;
+}
+@media screen and (min-width: 1400px){
+    .comedex_build{
+        background-size: 88%;
+    }
+
+}
+@media screen and (min-width: 1600px){
+    .comedex_build{
+        background-size: 78%;
+    }
+
+}
+
+@media screen and (min-width: 1920px){
+    .comedex_build{
+        background-size: 65%;
+    }
+}

@@ -1,0 +1,76 @@
+body{
+	width: 100%;
+	overflow-x: hidden;
+}
+.content_area{
+	width: 80%;
+	margin: 0% 10%;
+	
+}
+.navigation{
+	background-color: #343a40;
+	
+}
+.logo{
+	width:49%;
+	
+	display: inline-block;
+	top: 10px;
+    position: relative;
+}
+.menu{
+	width: 49%;
+	display: inline-block;
+
+}
+.menu ul{
+	padding: 0px;
+
+}
+.menu ul li {
+	display: inline-block;
+	padding: 0px 10px;
+}
+.menu ul li a{
+	text-decoration:none;
+	color: #fff;
+	font-size: 20px;
+}
+
+/** Tag Line**/
+.tag_line{
+	padding: 3em 0em;
+	background-color: #ccc;
+}
+.tag_line_image {
+	width: 59%;
+	display: inline-block;
+}
+.tag_line_image img{
+	width: 100%;
+}
+.tag_line_content{
+	width: 40%;
+	display: inline-block;
+	bottom: 4em;
+	position: relative;
+}
+button{
+	background-color: #017bff;
+	border: none;
+	font-size: 18px;
+	color: #fff;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+/** call to action boxes **/
+.call_to_action .call_to_action_box{
+	background: green;
+	width: 100%;
+	height: 100px;
+}
+
+
+
+

@@ -1,0 +1,301 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400');
+body {
+    padding-bottom: 0;
+    font-family: "Lato", Arial, sans-serif;;
+    color: #4a4a4a; 
+    font-weight: normal;
+    overflow-x: hidden;
+}
+@media only screen and (max-width: 768px){
+    .quote-section h3{
+        text-align: center;
+    }
+    .quote-section .pl-50{
+        padding-left: 0;
+        padding-right: 0px;
+    }
+    .quote-section h1{
+        font-size: 40px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .services_section .pl-30, .services_section .pl-50{
+        padding-left: 0;
+        padding-right: 0px;
+    }
+    .services_section h2{
+        font-size: 40px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .services_section img{
+        width: 100%;
+        padding-bottom: 1em;
+    }
+    .slider_content{
+        top: 0em;
+    }
+    .slider_content .service_button button {
+        border-radius: 50px;
+        padding: 0.5em 1em;
+        box-shadow: none;
+        border: none;
+        font-size: 12px;
+        color: #fff;
+        background: #7faec4;
+        float: left;
+        top: -2em;
+        position: relative;
+    }
+    .slider_content h1{
+        font-size: 20px;
+    }
+    .slider_content p{
+        display: none;
+    }
+    .domestic_relocations h3, .domestic_relocations p, .corporate_relocations h3, .corporate_relocations p{
+        text-align: center;
+    }
+    .service_button{
+        text-align: center;
+    }
+    .moving_section h3{
+        text-align: center;
+    }
+    .moving_section h1{
+        font-size: 40px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .moving_process {
+        padding: 1em 0em;
+    }
+    .moving_tips h3{
+        text-align: center;
+    }
+    .moving_tips h1{
+        text-align:  center;
+        font-size: 40px;
+        font-weight: bold;
+    }
+    .moving_tips .pl-50{
+        padding-left: 0;
+        padding-right: 0px;
+    }
+
+    .tab-pane{
+        height: auto !important;
+    }
+    .tabs-left{
+        padding-left: 30px;
+    }
+
+    .nav-tabs li {
+        text-align: center;
+    }
+    .tab-pane img{
+        width: 100%;
+    }
+    .tab-content .tab-pane{
+        padding: 0;
+    }
+    .tab-content{
+        margin-left: 0;
+    }
+    .tab-content p{
+        text-align: justify;
+    }
+    .top-footer{
+        height: auto;
+        padding-top: 0em;
+        background: #7faec4;
+    }
+    .top-footer .pl-50{
+        padding-left: 0;
+        padding-right: 0px;
+    }
+    .contact, .address, .links, .social_media{
+        text-align: center;
+        padding-bottom: 1em;
+    }
+    .links ul{
+        padding-left: 0;
+
+    }
+    .links ul li{
+        display: block;
+        border-right: 0;
+        right: 0em;
+    }
+    .social_media ul{
+        padding-left: 0;
+    }
+    p.white,ul.useful-links{
+        display: block;
+    }
+    ul.useful-links{
+        padding-left: 0;
+    }
+    ul.useful-links li{
+        display: block;
+        border-right: 0;
+    }
+}
+@media only screen and (max-width: 1024px){
+/*    .services_section img{
+        width: 100%;
+    }
+    .moving_process:after{
+        display: inline-block;
+        content: '\203A';
+        font-size: 30px;
+        color: #fff;
+        padding-left: 10px;
+        position: relative;
+        top: 3px;
+    }
+    .moving_tips img{
+        width: 100%;
+    }
+    .nav-tabs li a{
+        padding-left: 0em;
+        padding-right: 0;
+        text-align: center;
+    }
+    .social_links img{
+        width: 100%;
+    }*/
+.quote-section h3{
+        text-align: center;
+    }
+    .quote-section .pl-50{
+        padding-left: 0;
+        padding-right: 0px;
+    }
+    .quote-section h1{
+        font-size: 40px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .services_section .pl-30, .services_section .pl-50{
+        padding-left: 0;
+        padding-right: 0px;
+    }
+    .services_section h2{
+        font-size: 40px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .services_section img{
+        width: 100%;
+        padding-bottom: 1em;
+    }
+    .slider_content{
+        top: 0em;
+    }
+    .slider_content .service_button button {
+        border-radius: 50px;
+        padding: 0.5em 1em;
+        box-shadow: none;
+        border: none;
+        font-size: 12px;
+        color: #fff;
+        background: #7faec4;
+        float: left;
+        top: -2em;
+        position: relative;
+    }
+    .slider_content h1{
+        font-size: 20px;
+    }
+    .slider_content p{
+        display: none;
+    }
+    .domestic_relocations h3, .domestic_relocations p, .corporate_relocations h3, .corporate_relocations p{
+        text-align: center;
+    }
+    .service_button{
+        text-align: center;
+    }
+    .moving_section h3{
+        text-align: center;
+    }
+    .moving_section h1{
+        font-size: 40px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .moving_process {
+        padding: 1em 0em;
+    }
+    .moving_tips h3{
+        text-align: center;
+    }
+    .moving_tips h1{
+        text-align:  center;
+        font-size: 40px;
+        font-weight: bold;
+    }
+    .moving_tips .pl-50{
+        padding-left: 0;
+        padding-right: 0px;
+    }
+
+    .tab-pane{
+        height: auto !important;
+    }
+    .tabs-left{
+        padding-left: 30px;
+    }
+
+    .nav-tabs li {
+        text-align: center;
+    }
+    .tab-pane img{
+        width: 100%;
+    }
+    .tab-content .tab-pane{
+        padding: 0;
+    }
+    .tab-content{
+        margin-left: 0;
+    }
+    .tab-content p{
+        text-align: justify;
+    }
+    .top-footer{
+        height: auto;
+        padding-top: 0em;
+        background: #7faec4;
+    }
+    .top-footer .pl-50{
+        padding-left: 0;
+        padding-right: 0px;
+    }
+    .contact, .address, .links, .social_media{
+        text-align: center;
+        padding-bottom: 1em;
+    }
+    .links ul{
+        padding-left: 0;
+
+    }
+    .links ul li{
+        display: block;
+        border-right: 0;
+        right: 0em;
+    }
+    .social_media ul{
+        padding-left: 0;
+    }
+    p.white,ul.useful-links{
+        display: block;
+    }
+    ul.useful-links{
+        padding-left: 0;
+    }
+    ul.useful-links li{
+        display: block;
+        border-right: 0;
+    }
+}
