@@ -66,11 +66,37 @@ button{
 
 /** call to action boxes **/
 .call_to_action .call_to_action_box{
-	background: green;
+	background: grey;
 	width: 100%;
 	height: 100px;
 }
 
+/** call to action paragraph content **/
+.content_area{
+	color:black;
+}
+/** styling the boxes **/
+.grid_boxes{
+	display: inline-block;
+}
+.box_one{
+	width: 15%;
+	height: 300px;
+	border: 1px solid black;
+	float: left;
+}
+.box_two{
+	width: 15%;
+	height: 300px;
+	border: 1px solid black;
+	float: left;
+}
+.box_three{
+	width: 15%;
+	height: 300px;
+	border: 1px solid black;
+	float: left;
+}
 
 
 
