@@ -80,20 +80,20 @@ button{
 	display: inline-block;
 }
 .box_one{
-	width: 15%;
-	height: 300px;
+	width: 30%;
+	height: 250px;
 	border: 1px solid black;
 	float: left;
 }
 .box_two{
-	width: 15%;
-	height: 300px;
+	width: 30%;
+	height: 250px;
 	border: 1px solid black;
 	float: left;
 }
 .box_three{
-	width: 15%;
-	height: 300px;
+	width: 30%;
+	height: 250px;
 	border: 1px solid black;
 	float: left;
 }
