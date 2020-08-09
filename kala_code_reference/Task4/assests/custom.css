@@ -19,9 +19,8 @@ body
     display: inline-block;
     color: white;
 }
-.boxes button h3
+    button
 {
-    color: white;
-    align-items: center;
-    position: absolute;
+    background-color: #39739b;
+    padding: 1px 3px;
 }
