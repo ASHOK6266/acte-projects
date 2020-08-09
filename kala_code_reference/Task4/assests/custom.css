@@ -19,8 +19,9 @@ body
     display: inline-block;
     color: white;
 }
-    button
+button
 {
     background-color: #39739b;
-    padding: 1px 3px;
+    padding: 7px 14px;
+    color: white;
 }
