@@ -1,6 +1,11 @@
 body
 {
-	
+
+}
+.welcome_to_acme img
+{
+	width: 100%;
+	height: 500px;
 }
 .web_application_development h2
 {
@@ -10,8 +15,3 @@ body
 {
 	margin: 0px 3px;
 }
-.welcome_to_acme_image
-{
-	welcome_to_acme_image
-}
-

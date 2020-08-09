@@ -1,0 +1,27 @@
+body
+{
+
+}
+.outer_layout
+{
+    margin: 0% 10%;  
+}
+.boxes
+{
+    margin: 10% 1%;
+    /** WIDTH  TO BE USED IN PERCENTAGE**/
+    width: 15%;
+    /** HEIGHT SHOULD BE USED WITH THE PIXEL **/
+    height: 300px;
+    border: 1px solid #0b3c60;
+    background-color: #0b3c60;
+    padding: 0px 25px;
+    display: inline-block;
+    color: white;
+}
+.boxes button h3
+{
+    color: white;
+    align-items: center;
+    position: absolute;
+}
