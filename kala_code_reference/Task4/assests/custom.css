@@ -8,20 +8,57 @@ body
 }
 .boxes
 {
-    margin: 10% 1%;
+    margin: 1%;
     /** WIDTH  TO BE USED IN PERCENTAGE**/
-    width: 15%;
+    width: 27%;
     /** HEIGHT SHOULD BE USED WITH THE PIXEL **/
-    height: 300px;
+    height: 280px;
     border: 1px solid #0b3c60;
     background-color: #0b3c60;
-    padding: 0px 25px;
+    padding: 10px 25px;
     display: inline-block;
     color: white;
+}
+/** Multiple class css property **/
+.boxes h3,.boxes p,.boxes button{
+    text-align: center;
+}
+.boxes p{
+    font-size: 20px;
 }
 button
 {
     background-color: #39739b;
     padding: 7px 14px;
     color: white;
+    /** The below property will chnage according to screen resolution **/
+    /** left: 10em;
+    position: relative;
+    **/
+}
+/** SAMPLE IMAGE**/
+.sample_image_one
+{
+    background-image: url(./images/sample_image_services.jpeg);
+    margin: 0px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.sample_image_two
+{
+    background-image: url(./images/sample.jpeg);
+    margin: 0px;
+    background-repeat: no-repeat;
+    /**height: 159px;**/
+    background-position: right bottom;
+    background-color:#0e0e0e;
+    height: 900px;
+}
+.sample_image_three_bg{
+    background:#0e0e0e;
+    padding-top: 5em;
+}
+.sample_image_three
+{
+    background: url(./images/sample.jpeg) no-repeat right bottom;
 }
