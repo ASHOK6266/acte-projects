@@ -1,0 +1,33 @@
+.Box_one
+{
+    margin: 10% 0% 10% 2%;
+    width: 24%;
+    height: 300px;
+    border: 1px solid black;
+    display: inline-block;
+    background: url(./images/image_one.png) no-repeat right bottom;
+}
+.Box_two
+{
+    margin: 10% 0%;
+    width: 24%;
+    height: 300px;
+    border: 1px solid black;
+    display: inline-block;
+}
+.Box_three
+{
+    margin: 10% 0%;
+    width: 24%;
+    height: 300px;
+    border: 1px solid black;
+    display: inline-block;
+}
+.Box_four
+{
+    margin: 10% 0%;
+    width: 24%;
+    height: 300px;
+    border: 1px solid black;
+    display: inline-block;
+}
