@@ -30,38 +30,7 @@ body{
 .menu ul li {
 	display: inline-block;
 	padding: 0px 10px;
-}<div class="grid_boxes">
-<div class="content_area">
-	<div class="box_one">
-	<div class="content_area">
-		<div class="box_one_content">
-			<h3> Card One</h3>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel 
-				incidunt odit delectus nobis nulla nemo temporibus ab, modi tempora, 
-				eligendi magnam sapiente dicta quo rerum quam magni debitis, ut 
-				itaque.
-			</p>
-			<button>More info</button>	
-	</div>
-</div>
-</div>
-<!-- GRID BOX TWO -->
-<div class="content_area">
-	<div class="box_two">
-	
-		<div class="box_one_content">
-			<h3> Card Two</h3>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel 
-				incidunt odit delectus nobis nulla nemo temporibus ab, modi tempora, 
-				eligendi magnam sapiente dicta quo rerum quam magni debitis, ut 
-				itaque.
-			</p>
-			<button>More info</button>	
-		</div>
-</div>
-</div>
-<!-- GRID BOX THREE -->
-<div class="content_area">
+}
 	text-decoration:none;
 	color: #fff;
 	font-size: 20px;

@@ -1,0 +1,23 @@
+.content_area
+{
+    margin: 10% 2%;
+}
+.grid_boxes
+{
+    width: 15%;
+    height: 250px;
+    display: inline-block;
+    border: 1px solid lightgray;
+    /*vertical align top should be used for th boxes that has images and text*/
+    vertical-align: top;
+}
+.grid_boxes img
+{
+    margin-top: 5px;
+}
+.grid_boxes h3,.grid_boxes p
+{
+    margin: 2px 2px;
+    font-size: 20px;
+    padding: 
+}
