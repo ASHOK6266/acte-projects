@@ -4,7 +4,7 @@
 }
 .grid_boxes
 {
-    width: 15%;
+    width: 16.35%;
     height: 250px;
     display: inline-block;
     border: 1px solid lightgray;
@@ -15,9 +15,18 @@
 {
     margin-top: 5px;
 }
-.grid_boxes h3,.grid_boxes p
+.grid_boxes h3   
 {
     margin: 2px 2px;
+    font-size: 25px;
+}
+.grid_boxes ul
+{
+    padding: 0px;
+    margin: 0%;
+}
+.grid_boxes ul li{
+    line-height: 2;
     font-size: 20px;
-    padding: 
+    list-style: none;
 }

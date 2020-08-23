@@ -1,0 +1,27 @@
+@media screen and (max-width: 360px)
+{
+    .content_area{
+        margin: 2%;
+    }
+}
+@media screen and (max-width: 360px){
+	.welcome_section{
+        width: 100%;
+        height: auto;
+        background: url(../images/php_code.png) no-repeat;
+	}
+}
+@media screen and (max-width: 360px){
+	.web_development,.mobile_applications,.tech_marketing{
+        width: 100%;
+        height: auto;
+        display: block;
+        margin: 2%;
+	}  
+}
+@media screen and (max-width:360px){
+    .contact_about{
+        width: 100%;
+        height: auto;
+    }
+}

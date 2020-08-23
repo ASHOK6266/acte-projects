@@ -1,17 +1,64 @@
-body
+.content_area
+{
+	margin: 0% 25%;
+}
+/** welcome image **/
+.welcome_section
+{
+	background: url(../images/php_code.png) no-repeat;
+	color: white;
+	background-size: 100%;
+	/** use padding one way**/
+	/** using image height **/
+	height: 400px;
+	margin: 0px;
+	text-align: center;
+}
+.welcome_contents
+{
+	padding: 25px 0px;
+}
+.welcome_contents button
+{
+	background-color: #333;
+	color: white;
+	padding: 15px;
+	font-size: large;
+	border: 1px white;
+}
+.welcome_contents button:hover
+{
+	background-color: white;
+	color: black;
+}
+.web_development,.mobile_applications,.tech_marketing
+{
+	height: 350px;
+	width: 30%;
+	display: inline-block;
+	border: 1px solid black;
+	padding: 5px 2px;
+	text-align: center;
+}
+.web_development img,.mobile_applications img,.tech_marketing img
+{
+	width: 100%;
+	height: 150px;
+}
+.web_application_section
 {
 
 }
-.welcome_to_acme img
+.digital_needs
 {
-	width: 100%;
-	height: 500px;
+	text-align: center;
 }
-.web_application_development h2
+.contact_about
 {
-	margin: 10% 30%; 
-}
-.web_application_development
-{
-	margin: 0px 3px;
+	background-color:#2690d4;
+	color: white;
+	width: 49.7%;
+	height: 250px;
+	display: inline-block;
+	text-align: center;
 }
