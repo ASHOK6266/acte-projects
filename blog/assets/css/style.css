@@ -1,0 +1,26 @@
+.content_area
+{
+    margin: 5px 5px;
+}
+.styles_conference
+{
+    background: #293f50;
+    color: white;
+}
+.styles_conference p
+{
+    text-align: center;
+    font-size: large;
+}
+.styles_conference button
+{
+     margin: 0 auto;
+     display: block;
+     font-size: large;
+     padding: 10px;
+     color: white;
+     background: #293f50;
+     border: 1px solid white;
+     border-radius: 5px;
+     margin: 
+}
