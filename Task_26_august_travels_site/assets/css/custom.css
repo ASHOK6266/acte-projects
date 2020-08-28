@@ -1,8 +1,22 @@
+/** BACKGROUND COLORS **/
+.bg-primary
+{
+    background-color: #c63830;
+}
 .bg_color
 {
     background-color: #e9eef7;
 }
-.box_one
+/** CUSTOMER AGENT BAR CSS **/
+.customer_agent_login 
 {
-
+    color: white;
+}
+/** BOXES **/
+.box_one,.box_two,.box_three,.box_four
+{
+    width: 24.8%;
+    height: 200px;
+    border: 1px solid black;
+    display: inline-block;
 }
