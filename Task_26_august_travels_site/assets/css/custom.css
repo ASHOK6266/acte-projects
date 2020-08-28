@@ -13,10 +13,12 @@
     color: white;
 }
 /** BOXES **/
-.box_one,.box_two,.box_three,.box_four
+.border
 {
-    width: 24.8%;
-    height: 200px;
-    border: 1px solid black;
-    display: inline-block;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.starting_point
+{
+    
 }
