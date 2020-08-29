@@ -17,8 +17,20 @@
 {
     padding-right: 0px;
     padding-left: 0px;
+    margin: 0px;
 }
-
+/** IMAGE SET ONE **/
+.image_one
+{
+    background-image: url("../images/1.png");
+    background-repeat: no-repeat center;
+    width: 176px;
+    height: 176px;
+}
+.image_one:hover
+{
+    background-image: url("../images/1-1.png");
+}
 /** FORMS **/
 .form
 {
