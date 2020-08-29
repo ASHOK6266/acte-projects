@@ -26,11 +26,53 @@
     background-repeat: no-repeat center;
     width: 176px;
     height: 176px;
+    margin: auto;
 }
 .image_one:hover
 {
     background-image: url("../images/1-1.png");
+    background-repeat: no-repeat center;
 }
+.column_one_content
+{
+    text-align: center;
+}
+.image_two
+{
+    background-image: url("../images/2.png");
+    background-repeat: no-repeat center;
+    width: 176px;
+    height: 176px;
+    margin: auto; 
+}
+.image_two:hover
+{
+    background-image: url("../images/2-1.png");
+    background-repeat: no-repeat center;
+}
+.column_two_content
+{
+    text-align: center;
+}
+.image_three
+{
+    background-image: url("../images/3.png");
+    background-repeat: no-repeat center;
+    width: 176px;
+    height: 176px;
+    margin: auto; 
+}
+.image_three:hover
+{
+    background-image: url("../images/3-1.png");
+    background-repeat: no-repeat center;
+}
+.column_three_content
+{
+    text-align: center;
+}
+/** IMAGE SET TWO **/
+
 /** FORMS **/
 .form
 {
