@@ -9,3 +9,10 @@
     width: 400px;
     height: 400px;
 }
+.image_conseiller
+{
+    background-image: url("../image/Conseillers.gif") center;
+    background-repeat: no-repeat;
+    width: 526px;
+    height: 460px;
+}
