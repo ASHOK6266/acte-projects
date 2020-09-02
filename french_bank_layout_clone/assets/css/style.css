@@ -1,0 +1,11 @@
+.outer_layout
+{
+    margin: 0px 500px; 
+}
+.image_agent
+{
+    background-image: url("../image/agent.gif") center;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 400px;
+}
