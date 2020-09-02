@@ -1,4 +1,8 @@
-.image_agent
+h4,p
 {
-    background-image: url("../image/agent.gif");
+    color:  #008080;
+}
+.container-fluid
+{
+    background:  #006666;
 }
