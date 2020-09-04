@@ -6,3 +6,9 @@ h4,p
 {
     background:  #006666;
 }
+.px-2
+{
+  padding-left: ($spacer * .5) !important;
+  padding-right: ($spacer * .5) !important;
+}
+

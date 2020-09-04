@@ -4,14 +4,14 @@
 }
 .image_agent
 {
-    background-image: url("../image/agent.gif") center;
+    background: url("../image/agent.gif") no-repeat center;
     background-repeat: no-repeat;
     width: 400px;
     height: 400px;
 }
 .image_conseiller
 {
-    background-image: url("../image/Conseillers.gif") center;
+    background: url("../image/Conseillers.gif") no-repeat center;
     background-repeat: no-repeat;
     width: 526px;
     height: 460px;
@@ -19,4 +19,6 @@
 .mon_compte
 {
     color: white;
+    padding: 50px 10px;
 }
+
