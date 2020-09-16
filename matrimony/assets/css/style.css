@@ -1,10 +1,19 @@
+/** TOP SECTION **/
+.call_us
+{
+    width: 20%;
+}
+.mail_us
+{
+    width: 20%;
+}
 .content_area
 {
     margin: 0px 200px;       
 }
 .personal_profile
 {
-    width: 35%;
+    width: 19%;
     height: 350px;
     border: 1px black;
     background-color: #f24423;
@@ -13,7 +22,7 @@
 .personal_profile_contents
 {
     padding: 2px 6px 4px 6px;
-    background: url(../images/matches/profile-photo.png) no-repeat;
+    background: url(../images/matches/side-bar-profile.png) no-repeat;
 }
 .profiles
 {
@@ -22,4 +31,5 @@
 .list_style
 {
     list-style-type: none;
+    line-height: 2.5em;
 }
