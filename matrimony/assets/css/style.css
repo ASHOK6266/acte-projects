@@ -1,15 +1,17 @@
-/** TOP SECTION **/
-.call_us
+.content_area
 {
-    width: 20%;
+    margin: 0px 200px;       
+}
+
+/** TOP SECTION **/
+
+.logo,.call_us.mail_us,.con
+{
+    width: 17%;
 }
 .mail_us
 {
     width: 20%;
-}
-.content_area
-{
-    margin: 0px 200px;       
 }
 .personal_profile
 {
