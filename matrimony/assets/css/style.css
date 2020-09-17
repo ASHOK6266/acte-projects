@@ -1,6 +1,6 @@
 .content_area
 {
-    margin: 0px 200px;       
+    margin: 0px 300px;       
 }
 
 /** TOP SECTION **/
@@ -9,29 +9,66 @@
 {
     width: 17%;
 }
-.mail_us
-{
-    width: 20%;
-}
+
+/** PROFILE SECTION STYLING **/
+
+
+/** 1. PERSONAL PROFILE STYLING **/
+
+
 .personal_profile
 {
-    width: 19%;
-    height: 350px;
+    width: 15%;
+    height: 450px;
     border: 1px black;
     background-color: #f24423;
     color: white;
-}
-.personal_profile_contents
-{
-    padding: 2px 6px 4px 6px;
-    background: url(../images/matches/side-bar-profile.png) no-repeat;
-}
-.profiles
-{
-    width: 80%;
+    align-content: center;
+    display: inline-block;
 }
 .list_style
 {
     list-style-type: none;
     line-height: 2.5em;
+}
+
+/** 2. EACH PROFILE STYLING **/
+
+.each_profile
+{
+    padding: 0px 8px;
+}
+.profiles
+{
+    width: 75%;
+    height: 300px;
+    border: 1px solid grey;
+    display: inline-block;
+    vertical-align: top;
+}
+.profile_pic
+{
+    text-align: center;
+    padding: 0px 8px;
+    width: 30%;
+    border: 1px solid black;
+    display: inline-block;
+}
+.details 
+{
+    width: 30%;
+    border: 1px solid black;
+    display: inline-block;
+}
+.status
+{
+    width: 30%;
+    border: 1px solid black;
+    display: inline-block;
+}
+.status button
+{
+    border: 2px solid black;
+    border-radius: 2px;
+    background-color: #ee8972;
 }
