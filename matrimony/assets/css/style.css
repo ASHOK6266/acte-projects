@@ -34,41 +34,80 @@
 
 /** 2. EACH PROFILE STYLING **/
 
+/** **/
+
 .each_profile
 {
     padding: 0px 8px;
 }
-.profiles
+.profile_one,.profile_two
 {
     width: 75%;
     height: 300px;
     border: 1px solid grey;
-    display: inline-block;
     vertical-align: top;
+    display: inline-block;
 }
 .profile_pic
 {
     text-align: center;
     padding: 0px 8px;
-    width: 30%;
-    border: 1px solid black;
-    display: inline-block;
+    width: 23%;
+    float: left;
 }
 .details 
 {
-    width: 30%;
-    border: 1px solid black;
-    display: inline-block;
+    width: 48%;
+    float: left;
 }
 .status
 {
-    width: 30%;
-    border: 1px solid black;
+    width: 24%;
+    margin: 1px 5px;
+    float: left;
+}
+.buttons button
+{
+    border-radius: 10px;
+    background-color: #ee8972;
+    margin-top: 10px;
+    padding: 5px 15px;
+}
+.buttons ul
+{
+    list-style-type: none;
+}
+
+
+/** ABOUT KONGU VANNIYAR MATRIMONY  **/
+
+.about_kongu_vanniyar
+{
     display: inline-block;
 }
-.status button
+.about_kongu_vanniyar ul
 {
-    border: 2px solid black;
-    border-radius: 2px;
-    background-color: #ee8972;
+    list-style-type: none;
+}
+.about
+{
+    width: 39%;
+    display: inline-block;
+    list-style-type: none;
+}
+.help
+{
+    width: 19%;
+    display: inline-block;
+}
+.quick_links
+{
+    width: 19%;
+    display: inline-block;
+    list-style-type: none;
+}
+.links
+{
+    width: 9%;
+    display: inline-block;
 }
