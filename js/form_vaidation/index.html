@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple form validation</title>
+<style>
+body{
+    background-color:#202329;
+    color: white;
+}
+.form{
+    content: center;
+    margin: 45%;
+}
+input{
+    border-radius: 5px;
+}
+</style>
+
+</head>
+<body>
+
+    <form name="myForm" action="formValidation.js" onsubmit="return validateForm()" method="POST">
+        <div class="form">
+            <h1>Sign up</h1>
+            Name: <input type="text" name="fname"><br>
+            Email: <input type="email" name="email"><br>
+            Password: <input type="text" name="password"><br>
+            Confirm password: <input type="text" name="confirm_password"><br>
+            Phone number: <input type="tel" name="phone"><br>
+            <button type="submit" value="Submit">submit</button><br>
+        </div>
+    </form>
+</body>
+</html>
