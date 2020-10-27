@@ -18,7 +18,7 @@
 * str.substring(start [, end])
 * str.substr(start [, length])
 * str.codePointAt()
-
+* str.indexOf()
 */
 
 /*
